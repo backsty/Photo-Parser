@@ -1,0 +1,6 @@
+#будет игнорироваться относительно файла.gitignore
+/venv/
+/tmp/
+/.idea/
+
+/config.ini
